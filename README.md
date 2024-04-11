@@ -1,5 +1,5 @@
 # AIRBNB-PREDICTION
-#1. Installation
+1. Installation
 
    here we should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.
    The code will run with no issues using Python versions 3.*.
