@@ -1,8 +1,11 @@
 # AIRBNB-PREDICTION
-1. Installation
+#1. Installation
+
    here we should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.
    The code will run with no issues using Python versions 3.*.
+   
 2. Project Motivation
+
    The motivation behind the project of predicting booking demand on Airbnb stems from several key factors:
    
 Maximizing Revenue: Airbnb hosts aim to maximize their revenue by optimizing their pricing and availability strategies. Accurately predicting booking demand enables hosts to adjust their prices dynamically, ensuring that their listings remain competitive while maximizing revenue potential.
@@ -27,7 +30,9 @@ Can we predict the likelihood of booking a particular Airbnb listing based on it
    The notebook will be focus on a specific aspect of the project, such as data exploration, feature engineering, model training, and evaluation.
 
 4.  Results
+   
    The main findings of the code can be found at the post available.
+   
 5. Licensing, Authors, Acknowledgements
    we found the data from airbnb dataset in below link: nsideairbnb.com/get-the-data/
 
