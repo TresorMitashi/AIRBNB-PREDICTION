@@ -20,8 +20,11 @@ Data-Driven Decision Making: Data science empowers hosts with valuable insights 
 Overall, the project's motivation lies in its potential to empower Airbnb hosts with the tools and insights they need to optimize their operations, maximize revenue, enhance the guest experience, and gain a competitive edge in the marketplace. By leveraging data science techniques to predict booking demand, hosts can unlock new opportunities for success and growth on the Airbnb platform.
 
 For this project, I was interestested to:
+
 What factors influence the pricing of Airbnb listings in different locations?
+
 How do user reviews impact the popularity and occupancy rates of Airbnb listings?
+
 Can we predict the likelihood of booking a particular Airbnb listing based on its attributes and location?
 
 3. File Descriptions
